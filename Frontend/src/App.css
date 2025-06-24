@@ -1,0 +1,12 @@
+
+body{
+    background: #A2AADB;
+    color: #fff;
+}
+.card {
+    background-color: #FFF2E0;
+    border: 2px solid white;
+    color: #000;
+    border-radius: 10px;
+    box-shadow: 0.2em 0.2em 1em rgba(0, 0, 0, 0.3);
+}

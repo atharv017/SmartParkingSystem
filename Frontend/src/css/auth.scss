@@ -1,0 +1,22 @@
+.auth-container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login-card{
+    width: 400px;
+    background-color: #FFF2E0;
+    color: #000000;
+    border: 2px solid black;
+}
+.close{
+    position: absolute;
+    left: -8px;
+    top: 0px;
+    padding: 11px;
+    color: #fff;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 5px 1px 15px 1px ;
+}

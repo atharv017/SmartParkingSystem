@@ -1,0 +1,27 @@
+.overlay {
+    background: rgba(0, 0, 0, .8);
+    padding: 30px;
+
+    h1 {
+        
+        color: #fff;
+        
+        span {
+            font-weight: lighter;
+        }
+    }
+}
+.services-img{
+    height: 300px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 1px 2px 10px  black;
+    object-fit: cover;
+}
+
+h2{
+    color:#604652;
+}
+h3{
+    color:#604652;
+}
